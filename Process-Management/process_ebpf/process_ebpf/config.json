@@ -1,0 +1,9 @@
+{
+    "watch_process_name":"a.out" , 
+    "db_host":"localhost",
+    "db_port":8086,
+    "user":"root",
+    "password":"123456ck",
+    "process_db_name":"process",
+    "measurement":"runqlen"
+}
