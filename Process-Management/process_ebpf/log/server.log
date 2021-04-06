@@ -1,0 +1,28 @@
+[INFO|2020-03-10 23:09:11,234] 65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use
+[INFO|2020-03-10 23:09:11,235] 65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use
+[INFO|2020-03-10 23:09:11,235] 65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use
+[INFO|2020-03-10 23:09:11,235] 65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use65  /home/changke/code/ck_webServer/src/Socket.cpp    Address already in use
+[INFO|2020-03-10 23:09:11,235] 
+[INFO|2021-04-03 15:58:18,793] 619  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 15:58:31,043] 24       /home/changke/process_ebpf/src/CgiConnect.cpp
+[INFO|2021-04-03 15:58:31,043] 81  /home/changke/process_ebpf/src/Process.cpp    Connection refused
+[INFO|2021-04-03 15:58:31,087] 619  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:03:20,680] 620  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:03:28,998] 24       /home/changke/process_ebpf/src/CgiConnect.cpp
+[INFO|2021-04-03 16:03:28,998] 81  /home/changke/process_ebpf/src/Process.cpp    Connection refused
+[INFO|2021-04-03 16:03:29,042] 620  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:04:51,715] 621  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:04:53,349] 24       /home/changke/process_ebpf/src/CgiConnect.cpp
+[INFO|2021-04-03 16:04:53,349] 83  /home/changke/process_ebpf/src/Process.cpp    Connection refused
+[INFO|2021-04-03 16:04:53,389] 621  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:06:31,565] 621  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:06:41,647] 24       /home/changke/process_ebpf/src/CgiConnect.cpp
+[INFO|2021-04-03 16:06:41,647] 83  /home/changke/process_ebpf/src/Process.cpp    Connection refused
+[INFO|2021-04-03 16:06:41,681] 621  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:13:24,131] 621  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:15:31,859] 621  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:16:58,910] 620  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:17:08,595] 24       /home/changke/process_ebpf/src/CgiConnect.cpp
+[INFO|2021-04-03 16:17:08,595] 82  /home/changke/process_ebpf/src/Process.cpp    Connection refused
+[INFO|2021-04-03 16:17:08,624] 620  /home/changke/process_ebpf/src/Process.cpp    No such file or directory
+[INFO|2021-04-03 16:19:34,644] 620  /home/changke/process_ebpf/src/Process.cpp    No such file or directory

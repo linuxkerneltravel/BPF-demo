@@ -1,0 +1,3 @@
+/home/changke/process_ebpf/src/CMakeFiles/rebuild_cache.dir
+/home/changke/process_ebpf/src/CMakeFiles/Server.dir
+/home/changke/process_ebpf/src/CMakeFiles/edit_cache.dir
