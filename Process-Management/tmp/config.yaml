@@ -1,0 +1,28 @@
+app:
+  name: "lmp"
+  mode: "release"
+  version: "v0.0.1"
+  port: 8080
+  machine_id: 1
+  start_time: 2020-07-01
+
+log:
+  level: "debug"
+  filename: "./lmp.log"
+  max_size: 200
+  max_backups: 7
+  max_age: 67
+
+influxdb:
+  host: "127.0.0.1"
+  port: 8086
+  user: "root"
+  password: "123456"
+  dbname: "lmp"
+
+plugin:
+  path: "./plugins/"
+  collecttime: 5
+
+grafana:
+  ip: "localhost:3000"
